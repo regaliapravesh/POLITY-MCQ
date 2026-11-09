@@ -32,7 +32,7 @@ This material is the English adaptation of the renowned **Purvavalokun (पू�
 ---
 
 ## 📊 Question Paper Analysis & Coverage
-Integrated questions sourced from **225+ Preliminary & Mains examination papers (1990–2022)**:
+Integrated questions sourced from **225+ Preliminary & Mains examination papers (1990–2022)**[cite: 4]:
 
 | Examination Board | Covered Question Papers / Years |
 | :--- | :--- |
